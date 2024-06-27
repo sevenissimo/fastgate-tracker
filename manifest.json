@@ -1,0 +1,9 @@
+{
+  "domain": "fastgate_tracker",
+  "name": "FastGate Tracker",
+  "version": "0.0.2",
+  "documentation": "https://www.home-assistant.io/integrations/xiaomi",
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "requirements": []
+}
